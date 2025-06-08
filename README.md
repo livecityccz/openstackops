@@ -1730,6 +1730,7 @@ cinder create --display-name myVolume 1
 |        status       |               creating               |
 |     volume_type     |                 None                 |
 +---------------------+--------------------------------------+
+
 9.3.3  查看卷信息
 cinder list
 
